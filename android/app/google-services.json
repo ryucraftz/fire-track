@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324321966537",
+    "project_id": "fire-track-60af1",
+    "storage_bucket": "fire-track-60af1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324321966537:android:b4938df33f352563e65018",
+        "android_client_info": {
+          "package_name": "com.example.fire_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9jbQLOBCvg_9qnJwNOKQyvmA5xxlWnjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

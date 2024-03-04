@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">324321966537</string>
+    <string name="google_api_key" translatable="false">AIzaSyC9jbQLOBCvg_9qnJwNOKQyvmA5xxlWnjI</string>
+    <string name="google_app_id" translatable="false">1:324321966537:android:b4938df33f352563e65018</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9jbQLOBCvg_9qnJwNOKQyvmA5xxlWnjI</string>
+    <string name="google_storage_bucket" translatable="false">fire-track-60af1.appspot.com</string>
+    <string name="project_id" translatable="false">fire-track-60af1</string>
+</resources>
